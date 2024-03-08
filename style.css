@@ -1,0 +1,14 @@
+table {
+    width: 100%;
+    border-collapse:separate;
+    margin-top: 80px;
+}
+
+table, th, td {
+    border: 2px solid rgb(0, 217, 255); 
+}
+
+th, td {
+    padding: 10px;
+    text-align: center; 
+}
